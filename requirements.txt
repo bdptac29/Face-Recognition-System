@@ -1,8 +1,6 @@
 opencv-python
-face_recognition
 ultralytics
-deepface
-mediapipe
+mediapipe==0.10.14
 numpy
-tensorflow
-torch
+streamlit
+protobuf==4.25.3
