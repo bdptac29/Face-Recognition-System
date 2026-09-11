@@ -1,0 +1,8 @@
+opencv-python
+face_recognition
+ultralytics
+deepface
+mediapipe
+numpy
+tensorflow
+torch
